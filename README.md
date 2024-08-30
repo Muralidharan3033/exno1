@@ -37,9 +37,10 @@ import pandas as pd
 df=pd.read_csv('/content/SAMPLEIDS.csv')
 print(df.head(13))
 ![3](https://github.com/user-attachments/assets/f314378d-61e5-448a-99e2-cc1ec87b160a)
-
+```
 import pandas as pd
 print(df.tail(12))
+```
 ![4](https://github.com/user-attachments/assets/963587fd-7594-4d83-a1cb-99aa5dc97878)
 
 import pandas as pd
