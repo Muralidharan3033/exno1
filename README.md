@@ -114,7 +114,5 @@ z
 ![18](https://github.com/user-attachments/assets/79e34650-6a0f-416f-9ad9-ea77058ca668)
 
 
-
-
 # Result
-          <<include your Result here>>
+Thus the program executed sucessfully.
